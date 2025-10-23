@@ -1,6 +1,6 @@
 [submodule "GenAI-1-17"]
-	path = GenAI-1-17
+	path = GenAI_1_17
 	url = https://github.com/JWTHDYTWA/GenAI-1-17
 [submodule "GenAI-2-21"]
-	path = GenAI-2-21
+	path = GenAI_2_21
 	url = https://github.com/JWTHDYTWA/GenAI-2-21
